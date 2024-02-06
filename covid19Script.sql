@@ -1,14 +1,14 @@
 -- Data was imported using the mysql workbench import wizard
-/*
-skills used:
-	Joins
-    CTE's
-    Temp Tables
-    Window Funcitons
-    Aggregate Functions
-    Creating Views
-    Converting Datatypes
-*/
+
+-- skills used:
+-- 	Joins
+--     CTE's
+--     Temp Tables
+--     Window Funcitons
+--     Aggregate Functions
+--     Creating Views
+--     Converting Datatypes
+
 
 -- Database creation
 CREATE DATABASE covid19;
