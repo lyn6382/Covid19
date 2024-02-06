@@ -9,6 +9,7 @@ skills used:
     Creating Views
     Converting Datatypes
 */
+
 -- Database creation
 CREATE DATABASE covid19;
 use covid19;
